@@ -1,2 +1,2 @@
 # RMQ
-Rarnge Minimum Queries
+Range Minimum Queries
