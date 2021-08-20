@@ -1,0 +1,2 @@
+# RMQ
+Rarnge Minimum Queries
