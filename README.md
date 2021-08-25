@@ -10,3 +10,5 @@ https://en.wikipedia.org/wiki/Range_minimum_query
 https://web.stanford.edu/class/cs166/lectures/00/Small00.pdf
 
 https://www.infoarena.ro/problema/rmq
+
+https://algotree.org/algorithms/sparse_table/
