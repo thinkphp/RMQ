@@ -9,6 +9,8 @@ https://ideone.com/siTH8i
 
 ## Reference
 
+https://www.topcoder.com/thrive/articles/Range%20Minimum%20Query%20and%20Lowest%20Common%20Ancestor
+
 https://en.wikipedia.org/wiki/Range_minimum_query
 
 https://web.stanford.edu/class/cs166/lectures/00/Small00.pdf
